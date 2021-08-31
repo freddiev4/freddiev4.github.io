@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-Hello! My name is Freddie Vargus and I'm currently a Software Engineer at <a href="https://www.teikametrics.com//">Teikametrics</a> on the AI / Machine Learning team, helping grow an e-commerce optimization platform. In the past, I've worked as a Data Science Engineer at <a href="https://www.indigoag.com">Indigo Ag</a>, building out risk management and pricing APIs for growers, and as an Engineer at <a href="https://www.crunchbase.com/organization/quantopian/">Quantopian</a>, building an algorithmic trading platform: I worked on integrating 3rd-party datasets for quants, and contributed to / maintained <a href="https://github.com/quantopian/zipline">Zipline</a>, an open source backtester.
+Hello! My name is Freddie Vargus and I'm currently a Machine Learning Engineer at <a href="https://www.teikametrics.com//">Teikametrics</a>, helping grow an e-commerce optimization platform. In the past, I've worked as a Data Science Engineer at <a href="https://www.indigoag.com">Indigo Ag</a>, building out risk management and pricing APIs for growers, and as an Engineer at <a href="https://www.crunchbase.com/organization/quantopian/">Quantopian</a>, building an algorithmic trading platform: I worked on integrating 3rd-party datasets for quants, and contributed to / maintained <a href="https://github.com/quantopian/zipline">Zipline</a>, an open source backtester.
 </p>
 
 <p>
